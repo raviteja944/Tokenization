@@ -15,9 +15,14 @@ They are types of tokenization those are
 
 # Stemming:
 --> Process of reducing the infected words to there word stem 
+
+
   --> for example they are two words
   History
   Historical
+  
+  
+  
       --> if you apply stemming the word stem is Histori
 # Diadvantages
       In Stemming the word stem doent make any sense( not in meanging ful order).
