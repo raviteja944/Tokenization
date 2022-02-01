@@ -24,6 +24,6 @@ They are types of tokenization those are
    
  # Applications
  
- Mostly used in the Positive and Negative sentimental anlaysis
+ Mostly used in the Positive and Negative sentimental anlaysis.
  Mail spamming
       
