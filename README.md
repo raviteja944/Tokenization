@@ -19,8 +19,11 @@ They are types of tokenization those are
   History
   Historical
       --> if you apply stemming the word stem is Histori
-      In Stemming the word stem doent make any sense( not in meanging ful order) --> Disadvantage
-      Process time is faster --> Disadvantage
+# Diadvantages
+      In Stemming the word stem doent make any sense( not in meanging ful order).
+      
+      
+      Process time is faster 
    
  # Applications
  
