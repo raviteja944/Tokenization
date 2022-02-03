@@ -35,3 +35,16 @@ They are types of tokenization those are
  Mostly used in the Positive and Negative sentimental anlaysis.
  Mail spamming
       
+      
+# Lemmatization
+The process of lemmatization is also same as stemming but the word stem of the out come is in meaningful order
+
+for example 
+          --> history
+              historic
+           outcome of this History
+# Advantages           
+Same as stemming 
+# Distavantages
+The processing time is more because it has to produce meaningful output 
+      
